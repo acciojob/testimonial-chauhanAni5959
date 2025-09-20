@@ -1,1 +1,26 @@
-/*  your css code here. If applicable */
+.testimonials-container {
+  background: #f5f5f5;
+  padding: 40px 0 40px 40px;
+  font-family: Georgia, serif;
+}
+.testimonials-title {
+  font-size: 2.5em;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.testimonial {
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 24px 30px;
+  margin-bottom: 25px;
+  max-width: 90%;
+}
+.testimonial-text {
+  font-size: 1.2em;
+  margin-bottom: 16px;
+}
+.testimonial-author {
+  text-align: right;
+  font-style: italic;
+  font-size: 1.1em;
+}
